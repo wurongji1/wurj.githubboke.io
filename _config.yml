@@ -22,8 +22,8 @@ pretty_urls:
 
 # Directory
 type: git
-  repo: https://github.com/wurongji1/wurj.githubboke.io.git
-  branch: master
+repo: https://github.com/wurongji1/wurj.githubboke.io.git
+branch: master
 source_dir: source
 public_dir: public
 tag_dir: tags
