@@ -105,5 +105,7 @@ deploy:
   type: github
   repo: git@github.com:wurongji1/wurj.githubboke.io.git
   branch: main
-  message: [hexo] auto commit
+  message: 
+  - hexo
+  - auto commit
 
