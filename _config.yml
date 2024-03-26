@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 个人博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 吴荣基
+language: zh-CN
 timezone: ''
 
 # URL
@@ -102,10 +102,15 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: github
+  #  type: git
+  #repo: https://github.com/wurongji1/wurj.githubboke.io.git
+  #branch: main
+  #message: 
+  #- hexo
+  #- auto commit
+  type: git
   repo: https://github.com/wurongji1/wurj.githubboke.io.git
   branch: main
-  message: 
-  - hexo
-  - auto commit
+  message: "Hexo Auto Commit"
+
 
